@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, IST!\n");
+	printf("Buh Bye, IDK!\n");
 	return 0;
 }
